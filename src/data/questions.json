@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "statement": "1. Name the shape with three sides?",
+    "options": [
+      "Triangle",
+      "Square",
+      "Circle",
+      "Recatangle"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "id": 2,
+    "statement": "2. What is the smallest two digit number?",
+    "options": [
+      "15",
+      "10",
+      "99",
+      "22"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "id": 3,
+    "statement": "3. Which shape has no sides and corners?",
+    "options": [
+      "Triangle",
+      "Square",
+      "Circle",
+      "Recatangle"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "id": 4,
+    "statement": "4. What is the smallest even number?",
+    "options": [
+      "0",
+      "3",
+      "1",
+      "2"
+    ],
+    "correctOptionIndex": 3
+  },
+  {
+    "id": 5,
+    "statement": "5. 40+20 equals to ____________.",
+    "options": [
+      "30",
+      "80",
+      "60",
+      "20"
+    ],
+    "correctOptionIndex": 2
+  }
+]
+
