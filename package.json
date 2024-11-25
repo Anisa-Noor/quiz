@@ -7,12 +7,12 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "vite-plugin-pages": "^0.32.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",
@@ -26,8 +26,7 @@
     "globals": "^15.11.0",
     "vite": "^5.4.10"
   },
- "engines": {
+  "engines": {
     "node": ">=16.0.0"
   }
-
 }
